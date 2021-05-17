@@ -1,0 +1,5 @@
+com\microservice\Micro\MicroApplication.class
+com\microservice\repository\UserDao.class
+com\microservice\controller\Users.class
+com\microservice\objects\Helloobjects.class
+com\microservice\objects\UserObject.class
