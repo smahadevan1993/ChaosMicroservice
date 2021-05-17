@@ -1,5 +1,5 @@
 # ChaosMicroservice
-This simple microservice helps to execute chaostoolkit experiment . 
+This microservice helps to trigger chaostoolkit experiment from any third party application / machine. 
 
 You can import it to Eclipse and build with goal : clean install package 
 Once you have done that , you will get the jar file inside target location of the project . 
